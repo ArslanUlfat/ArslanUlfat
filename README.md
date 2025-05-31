@@ -1,6 +1,24 @@
 # Hi there 👋 I'm Arslan, a Full Stack Software Engineer
 
-I am a passionate and results-driven Full Stack Engineer with expertise in building modern web applications, specializing in technologies like **PHP**, **Ruby on Rails**, **React**, **NodeJS**, **.NET**, and **Tailwind CSS**. With a strong focus on clean, maintainable code and scalable architecture, I aim to deliver top-tier solutions for businesses and individuals alike.
+I’m Arslan, a full-stack software engineer with 5+ years of experience in building modern, scalable, and user-centric applications. I specialize in Ruby on Rails, React, .Python, and DevOps.
+
+Whether it's creating API integrations (like the FDA recall system), building intelligent data structures (like a Neo4j-based), or converting pixel-perfect designs from Figma with Tailwind and ViewComponents. I bring engineering precision and product thinking to every project.
+
+I’ve led teams, owned products end-to-end, and collaborated with 20+ developers on production-grade apps. My expertise spans backend systems, frontend interfaces, and CI/CD pipelines, making me your go-to partner for both MVPs and scalable systems.
+
+What I Offer:
+
+Full-stack web development (Rails, React, Python, Django)
+
+API development & integration (Faraday, REST, GraphQL)
+
+Neo4j Graph DB modeling & relationships
+
+UI/UX implementation from Figma using Tailwind CSS
+
+Dockerized development & deployments
+
+Automation testing, background jobs, and performance optimization
 
 ---
 
